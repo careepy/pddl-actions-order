@@ -1,0 +1,8 @@
+(create_candidate origin_availability_alpha)
+(create_candidate destination_availability_alpha)
+(create_candidate shift_candidate_alpha)
+(create_candidate shift_candidate_beta)
+(allocate_vehicle_unit origin_availability_alpha vehicle_unit_alpha)
+(allocate_vehicle_unit shift_candidate_alpha vehicle_unit_beta)
+(attach_task_profile shift_candidate_alpha route_task_profile_alpha)
+(confirm_candidate_preparedness shift_candidate_alpha route_task_profile_alpha)

@@ -1,0 +1,1 @@
+{"metrics":{"strict":{"reachability":false,"executability":false,"plan_length":64,"execution_progress":0.7076923076923077,"first_failure_step":46,"non_executable_failure":"state_execution_error","validator_timed_out":false},"legacy":{"optimality_ratio":null}}}

@@ -1,0 +1,599 @@
+{
+  "validator": "/home/kapchonka/coding/testplancatbench/VAL/build/linux64/Release/bin/Validate",
+  "limit_seconds": 10,
+  "cases": [
+    {
+      "path": "materials/logistics/alpha/p1/disp_3/1/deepseek-v4-flash/llm_result.json",
+      "plan_length": 8,
+      "outcome": "parse_error",
+      "reason": "line 8: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p1/disp_3/4/deepseek-v4-flash/llm_result.json",
+      "plan_length": 8,
+      "outcome": "parse_error",
+      "reason": "line 8: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p1/disp_3/15/nemotron-3-super/llm_result.json",
+      "plan_length": 8,
+      "outcome": "parse_error",
+      "reason": "line 6: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p2/disp_2/1/deepseek-v4-flash/llm_result.json",
+      "plan_length": 15,
+      "outcome": "parse_error",
+      "reason": "line 8: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p2/disp_3/15/deepseek-v4-flash/llm_result.json",
+      "plan_length": 15,
+      "outcome": "parse_error",
+      "reason": "line 8: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p2/plan_scatter/10/deepseek-v4-flash/llm_result.json",
+      "plan_length": 34,
+      "outcome": "parse_error",
+      "reason": "line 9: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p2/disp_1/10/gpt-oss-120b/llm_result.json",
+      "plan_length": 16,
+      "outcome": "parse_error",
+      "reason": "line 8: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p2/plan_scatter/8/gpt-oss-120b/llm_result.json",
+      "plan_length": 15,
+      "outcome": "parse_error",
+      "reason": "line 8: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p2/canonical/7/nemotron-3-super/llm_result.json",
+      "plan_length": 15,
+      "outcome": "parse_error",
+      "reason": "line 8: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p2/plan_scatter/3/nemotron-3-super/llm_result.json",
+      "plan_length": 15,
+      "outcome": "parse_error",
+      "reason": "line 8: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p2/plan_scatter/9/nemotron-3-super/llm_result.json",
+      "plan_length": 15,
+      "outcome": "parse_error",
+      "reason": "line 8: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p2/plan_scatter/11/nemotron-3-super/llm_result.json",
+      "plan_length": 14,
+      "outcome": "parse_error",
+      "reason": "line 7: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p2/plan_scatter/12/nemotron-3-super/llm_result.json",
+      "plan_length": 15,
+      "outcome": "parse_error",
+      "reason": "line 8: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p3/disp_3/2/gpt-oss-120b/llm_result.json",
+      "plan_length": 23,
+      "outcome": "parse_error",
+      "reason": "line 4: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p4/disp_3/10/deepseek-v4-flash/llm_result.json",
+      "plan_length": 40,
+      "outcome": "parse_error",
+      "reason": "line 3: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p4/plan_scatter/12/gpt-oss-120b/llm_result.json",
+      "plan_length": 35,
+      "outcome": "parse_error",
+      "reason": "line 6: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p5/disp_1/6/gpt-oss-120b/llm_result.json",
+      "plan_length": 39,
+      "outcome": "parse_error",
+      "reason": "line 8: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p5/disp_1/10/gpt-oss-120b/llm_result.json",
+      "plan_length": 39,
+      "outcome": "parse_error",
+      "reason": "line 8: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p5/disp_1/11/gpt-oss-120b/llm_result.json",
+      "plan_length": 45,
+      "outcome": "parse_error",
+      "reason": "line 6: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p5/disp_1/14/gpt-oss-120b/llm_result.json",
+      "plan_length": 39,
+      "outcome": "parse_error",
+      "reason": "line 9: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p6/disp_2/2/deepseek-v4-flash/llm_result.json",
+      "plan_length": 54,
+      "outcome": "parse_error",
+      "reason": "line 9: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p6/disp_1/15/gpt-oss-120b/llm_result.json",
+      "plan_length": 50,
+      "outcome": "parse_error",
+      "reason": "line 8: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p6/disp_3/10/gpt-oss-120b/llm_result.json",
+      "plan_length": 47,
+      "outcome": "parse_error",
+      "reason": "line 8: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p6/plan_front/8/gpt-oss-120b/llm_result.json",
+      "plan_length": 52,
+      "outcome": "parse_error",
+      "reason": "line 33: assemble_transport_leg has 3 arguments, expected 5",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p6/plan_scatter/3/gpt-oss-120b/llm_result.json",
+      "plan_length": 25,
+      "outcome": "parse_error",
+      "reason": "line 8: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p7/canonical/7/gpt-oss-120b/llm_result.json",
+      "plan_length": 63,
+      "outcome": "parse_error",
+      "execution_progress": 0.0,
+      "method": "VAL_recheck",
+      "returncode": 255,
+      "validator_output_tail": "..action passes type checking.\nType-checking establish_clearance_origin_loaded\n...action passes type checking.\nType-checking establish_clearance_destination_loaded\n...action passes type checking.\nType-checking establish_clearance_full_load\n...action passes type checking.\nType-checking finalize_candidate_direct\n...action passes type checking.\nType-checking attach_service_window\n...action passes type checking.\nType-checking validate_route_sequence\n...action passes type checking.\nType-checking finalize_candidate_after_sequence_validation\n...action passes type checking.\nType-checking apply_operational_constraint\n...action passes type checking.\nType-checking confirm_operator_alignment\n...action passes type checking.\nType-checking verify_compliance_certificate\n...action passes type checking.\nType-checking finalize_candidate_after_compliance_validation\n...action passes type checking.\nType-checking mark_origin_availability_dispatch_ready\n...action passes type checking.\nType-checking mark_destination_availability_dispatch_ready\n...action passes type checking.\nType-checking allocate_dispatch_slot_for_candidate\n...action passes type checking.\nType-checking execute_origin_dispatch\n...action passes type checking.\nType-checking execute_destination_dispatch\n...action passes type checking.\nType-checking execute_schedule_dispatch\n...action passes type checking.\nChecking plan: /tmp/tmp19en784c.plan\nObject with unknown type: vehicle_alpha\n\nErrors: 0, warnings: 3\nError: Error in type-checking!\n\n"
+    },
+    {
+      "path": "materials/logistics/alpha/p7/disp_1/3/gpt-oss-120b/llm_result.json",
+      "plan_length": 58,
+      "outcome": "parse_error",
+      "reason": "line 8: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p7/plan_back/1/gpt-oss-120b/llm_result.json",
+      "plan_length": 62,
+      "outcome": "parse_error",
+      "execution_progress": 0.0,
+      "method": "VAL_recheck",
+      "returncode": 255,
+      "validator_output_tail": "ng assemble_transport_leg\n...action passes type checking.\nType-checking unload_origin_payload\n...action passes type checking.\nType-checking load_origin_payload\n...action passes type checking.\nType-checking unload_destination_payload\n...action passes type checking.\nType-checking load_destination_payload\n...action passes type checking.\nType-checking execute_schedule_dispatch\n...action passes type checking.\nType-checking detach_task_profile\n...action passes type checking.\nType-checking allocate_dispatch_slot_for_candidate\n...action passes type checking.\nType-checking finalize_candidate_after_compliance_validation\n...action passes type checking.\nType-checking verify_compliance_certificate\n...action passes type checking.\nType-checking release_operator_resource\n...action passes type checking.\nType-checking assign_compliance_certificate\n...action passes type checking.\nType-checking confirm_operator_alignment\n...action passes type checking.\nType-checking apply_operational_constraint\n...action passes type checking.\nType-checking assign_operator_resource\n...action passes type checking.\nType-checking confirm_candidate_preparedness\n...action passes type checking.\nType-checking attach_task_profile\n...action passes type checking.\nType-checking allocate_vehicle_unit\n...action passes type checking.\nType-checking create_candidate\n...action passes type checking.\nChecking plan: /tmp/tmp416sjjtq.plan\nObject with unknown type: vehicle_gamma\n\nErrors: 0, warnings: 2\nError: Error in type-checking!\n\n"
+    },
+    {
+      "path": "materials/logistics/alpha/p8/plan_scatter/11/gpt-oss-120b/llm_result.json",
+      "plan_length": 6,
+      "outcome": "parse_error",
+      "reason": "line 2: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p8/plan_scatter/15/gpt-oss-120b/llm_result.json",
+      "plan_length": 6,
+      "outcome": "parse_error",
+      "reason": "line 1: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p10/canonical/5/gpt-oss-120b/llm_result.json",
+      "plan_length": 10,
+      "outcome": "parse_error",
+      "reason": "line 4: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p10/canonical/10/gpt-oss-120b/llm_result.json",
+      "plan_length": 35,
+      "outcome": "parse_error",
+      "reason": "line 29: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p10/canonical/14/gpt-oss-120b/llm_result.json",
+      "plan_length": 10,
+      "outcome": "parse_error",
+      "reason": "line 4: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p10/plan_scatter/12/gpt-oss-120b/llm_result.json",
+      "plan_length": 35,
+      "outcome": "parse_error",
+      "reason": "line 22: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p10/plan_scatter/8/nemotron-3-super/llm_result.json",
+      "plan_length": 10,
+      "outcome": "parse_error",
+      "execution_progress": 0.0,
+      "method": "VAL_recheck",
+      "returncode": 255,
+      "validator_output_tail": "ent\n...action passes type checking.\nType-checking verify_loading_profile_nominal\n...action passes type checking.\nType-checking verify_loading_profile_destination_flag\n...action passes type checking.\nType-checking establish_clearance_nominal\n...action passes type checking.\nType-checking establish_clearance_origin_loaded\n...action passes type checking.\nType-checking apply_operational_constraint\n...action passes type checking.\nType-checking establish_clearance_destination_loaded\n...action passes type checking.\nType-checking establish_clearance_full_load\n...action passes type checking.\nType-checking finalize_candidate_direct\n...action passes type checking.\nType-checking assign_compliance_certificate\n...action passes type checking.\nType-checking attach_service_window\n...action passes type checking.\nType-checking validate_route_sequence\n...action passes type checking.\nType-checking finalize_candidate_after_sequence_validation\n...action passes type checking.\nType-checking mark_origin_availability_dispatch_ready\n...action passes type checking.\nType-checking assign_operator_resource\n...action passes type checking.\nType-checking mark_destination_availability_dispatch_ready\n...action passes type checking.\nType-checking execute_origin_dispatch\n...action passes type checking.\nType-checking execute_destination_dispatch\n...action passes type checking.\nChecking plan: /tmp/tmpjz_jtmoe.plan\nObject with unknown type: driver_operator_alloc\n\nErrors: 0, warnings: 1\nError: Error in type-checking!\n\n"
+    },
+    {
+      "path": "materials/logistics/alpha/p11/disp_1/4/deepseek-v4-flash/llm_result.json",
+      "plan_length": 23,
+      "outcome": "parse_error",
+      "reason": "line 4: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p11/disp_3/6/deepseek-v4-flash/llm_result.json",
+      "plan_length": 12,
+      "outcome": "parse_error",
+      "reason": "line 3: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p11/disp_1/8/nemotron-3-super/llm_result.json",
+      "plan_length": 13,
+      "outcome": "parse_error",
+      "reason": "line 2: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p11/disp_1/15/nemotron-3-super/llm_result.json",
+      "plan_length": 14,
+      "outcome": "parse_error",
+      "execution_progress": 0.0,
+      "method": "VAL_recheck",
+      "returncode": 255,
+      "validator_output_tail": "checking assemble_destination_loaded_leg\n...action passes type checking.\nType-checking assemble_fully_loaded_leg\n...action passes type checking.\nType-checking authorize_transport_leg_loading\n...action passes type checking.\nType-checking load_container_onto_leg\n...action passes type checking.\nType-checking stage_schedule_candidate\n...action passes type checking.\nType-checking reserve_equipment_resource\n...action passes type checking.\nType-checking confirm_equipment_assignment\n...action passes type checking.\nType-checking verify_loading_profile_destination_flag\n...action passes type checking.\nType-checking establish_clearance_nominal\n...action passes type checking.\nType-checking establish_clearance_origin_loaded\n...action passes type checking.\nType-checking establish_clearance_destination_loaded\n...action passes type checking.\nType-checking establish_clearance_full_load\n...action passes type checking.\nType-checking finalize_candidate_direct\n...action passes type checking.\nType-checking attach_service_window\n...action passes type checking.\nType-checking validate_route_sequence\n...action passes type checking.\nType-checking finalize_candidate_after_sequence_validation\n...action passes type checking.\nType-checking apply_operational_constraint\n...action passes type checking.\nType-checking confirm_operator_alignment\n...action passes type checking.\nChecking plan: /tmp/tmp9rjpwd4w.plan\nObject with unknown type: cargo_payload_beta\n\nErrors: 0, warnings: 1\nError: Error in type-checking!\n\n"
+    },
+    {
+      "path": "materials/logistics/alpha/p12/disp_2/11/nemotron-3-super/llm_result.json",
+      "plan_length": 13,
+      "outcome": "parse_error",
+      "reason": "line 2: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p12/plan_front/8/nemotron-3-super/llm_result.json",
+      "plan_length": 20,
+      "outcome": "parse_error",
+      "reason": "line 20: confirm_equipment_assignment has 2 arguments, expected 5",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p13/disp_3/3/nemotron-3-super/llm_result.json",
+      "plan_length": 19,
+      "outcome": "parse_error",
+      "execution_progress": 0.0,
+      "method": "VAL_recheck",
+      "returncode": 255,
+      "validator_output_tail": "es type checking.\nType-checking unload_destination_payload\n...action passes type checking.\nType-checking load_destination_payload\n...action passes type checking.\nType-checking lock_destination_availability\n...action passes type checking.\nType-checking activate_destination_node\n...action passes type checking.\nType-checking unload_origin_payload\n...action passes type checking.\nType-checking load_origin_payload\n...action passes type checking.\nType-checking lock_origin_availability\n...action passes type checking.\nType-checking activate_origin_node\n...action passes type checking.\nType-checking release_compliance_certificate\n...action passes type checking.\nType-checking assign_compliance_certificate\n...action passes type checking.\nType-checking release_skill_certificate\n...action passes type checking.\nType-checking assign_skill_certificate\n...action passes type checking.\nType-checking release_operator_resource\n...action passes type checking.\nType-checking assign_operator_resource\n...action passes type checking.\nType-checking detach_task_profile\n...action passes type checking.\nType-checking confirm_candidate_preparedness\n...action passes type checking.\nType-checking attach_task_profile\n...action passes type checking.\nType-checking allocate_vehicle_unit\n...action passes type checking.\nType-checking create_candidate\n...action passes type checking.\nChecking plan: /tmp/tmplp5ycsst.plan\nObject with unknown type: dispatch_slot_alloc\n\nErrors: 0, warnings: 1\nError: Error in type-checking!\n\n"
+    },
+    {
+      "path": "materials/logistics/alpha/p14/disp_3/8/gpt-oss-120b/llm_result.json",
+      "plan_length": 20,
+      "outcome": "parse_error",
+      "reason": "line 3: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p14/plan_scatter/3/gpt-oss-120b/llm_result.json",
+      "plan_length": 23,
+      "outcome": "parse_error",
+      "reason": "line 2: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p14/disp_2/15/nemotron-3-super/llm_result.json",
+      "plan_length": 24,
+      "outcome": "parse_error",
+      "reason": "line 2: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p15/plan_back/13/gpt-oss-120b/llm_result.json",
+      "plan_length": 30,
+      "outcome": "parse_error",
+      "reason": "line 2: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p16/disp_3/10/deepseek-v4-flash/llm_result.json",
+      "plan_length": 28,
+      "outcome": "parse_error",
+      "reason": "line 8: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p17/disp_3/9/deepseek-v4-flash/llm_result.json",
+      "plan_length": 28,
+      "outcome": "parse_error",
+      "reason": "line 5: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p18/disp_2/10/deepseek-v4-flash/llm_result.json",
+      "plan_length": 47,
+      "outcome": "parse_error",
+      "reason": "line 6: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p18/canonical/1/gpt-oss-120b/llm_result.json",
+      "plan_length": 1,
+      "outcome": "parse_error",
+      "execution_progress": 0.0,
+      "method": "VAL_recheck",
+      "returncode": 255,
+      "validator_output_tail": "action passes type checking.\nType-checking establish_clearance_origin_loaded\n...action passes type checking.\nType-checking establish_clearance_destination_loaded\n...action passes type checking.\nType-checking establish_clearance_full_load\n...action passes type checking.\nType-checking finalize_candidate_direct\n...action passes type checking.\nType-checking attach_service_window\n...action passes type checking.\nType-checking validate_route_sequence\n...action passes type checking.\nType-checking finalize_candidate_after_sequence_validation\n...action passes type checking.\nType-checking apply_operational_constraint\n...action passes type checking.\nType-checking confirm_operator_alignment\n...action passes type checking.\nType-checking verify_compliance_certificate\n...action passes type checking.\nType-checking finalize_candidate_after_compliance_validation\n...action passes type checking.\nType-checking mark_origin_availability_dispatch_ready\n...action passes type checking.\nType-checking mark_destination_availability_dispatch_ready\n...action passes type checking.\nType-checking allocate_dispatch_slot_for_candidate\n...action passes type checking.\nType-checking execute_origin_dispatch\n...action passes type checking.\nType-checking execute_destination_dispatch\n...action passes type checking.\nType-checking execute_schedule_dispatch\n...action passes type checking.\nChecking plan: /tmp/tmp1h6_b_1o.plan\nObject with unknown type: dummy_candidate\n\nErrors: 0, warnings: 1\nError: Error in type-checking!\n\n"
+    },
+    {
+      "path": "materials/logistics/alpha/p18/disp_3/1/gpt-oss-120b/llm_result.json",
+      "plan_length": 33,
+      "outcome": "parse_error",
+      "reason": "line 3: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p18/disp_3/14/gpt-oss-120b/llm_result.json",
+      "plan_length": 39,
+      "outcome": "parse_error",
+      "reason": "line 7: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p18/plan_back/2/gpt-oss-120b/llm_result.json",
+      "plan_length": 8,
+      "outcome": "parse_error",
+      "reason": "line 6: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p18/plan_scatter/15/gpt-oss-120b/llm_result.json",
+      "plan_length": 45,
+      "outcome": "parse_error",
+      "reason": "line 21: allocate_dispatch_slot_for_candidate has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p18/plan_scatter/1/nemotron-3-super/llm_result.json",
+      "plan_length": 28,
+      "outcome": "parse_error",
+      "reason": "line 3: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p19/plan_scatter/3/deepseek-v4-flash/llm_result.json",
+      "plan_length": 45,
+      "outcome": "parse_error",
+      "reason": "line 1: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p19/canonical/13/gpt-oss-120b/llm_result.json",
+      "plan_length": 38,
+      "outcome": "parse_error",
+      "reason": "line 4: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p19/disp_1/4/gpt-oss-120b/llm_result.json",
+      "plan_length": 29,
+      "outcome": "parse_error",
+      "reason": "line 9: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p19/plan_back/3/gpt-oss-120b/llm_result.json",
+      "plan_length": 50,
+      "outcome": "parse_error",
+      "reason": "line 23: allocate_dispatch_slot_for_candidate has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p19/plan_scatter/7/gpt-oss-120b/llm_result.json",
+      "plan_length": 44,
+      "outcome": "parse_error",
+      "reason": "line 4: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p19/plan_scatter/12/gpt-oss-120b/llm_result.json",
+      "plan_length": 3,
+      "outcome": "parse_error",
+      "reason": "line 2: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p19/canonical/10/nemotron-3-super/llm_result.json",
+      "plan_length": 48,
+      "outcome": "parse_error",
+      "execution_progress": 0.0,
+      "method": "VAL_recheck",
+      "returncode": 255,
+      "validator_output_tail": "on passes type checking.\nType-checking establish_clearance_origin_loaded\n...action passes type checking.\nType-checking establish_clearance_destination_loaded\n...action passes type checking.\nType-checking establish_clearance_full_load\n...action passes type checking.\nType-checking finalize_candidate_direct\n...action passes type checking.\nType-checking attach_service_window\n...action passes type checking.\nType-checking validate_route_sequence\n...action passes type checking.\nType-checking finalize_candidate_after_sequence_validation\n...action passes type checking.\nType-checking apply_operational_constraint\n...action passes type checking.\nType-checking confirm_operator_alignment\n...action passes type checking.\nType-checking verify_compliance_certificate\n...action passes type checking.\nType-checking finalize_candidate_after_compliance_validation\n...action passes type checking.\nType-checking mark_origin_availability_dispatch_ready\n...action passes type checking.\nType-checking mark_destination_availability_dispatch_ready\n...action passes type checking.\nType-checking allocate_dispatch_slot_for_candidate\n...action passes type checking.\nType-checking execute_origin_dispatch\n...action passes type checking.\nType-checking execute_destination_dispatch\n...action passes type checking.\nType-checking execute_schedule_dispatch\n...action passes type checking.\nChecking plan: /tmp/tmpp95qkwrz.plan\nObject with unknown type: transport_leg_alloc\n\nErrors: 0, warnings: 1\nError: Error in type-checking!\n\n"
+    },
+    {
+      "path": "materials/logistics/alpha/p20/disp_1/5/deepseek-v4-flash/llm_result.json",
+      "plan_length": 47,
+      "outcome": "parse_error",
+      "reason": "line 2: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p20/disp_2/12/deepseek-v4-flash/llm_result.json",
+      "plan_length": 54,
+      "outcome": "parse_error",
+      "reason": "line 8: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p20/plan_front/11/deepseek-v4-flash/llm_result.json",
+      "plan_length": 51,
+      "outcome": "parse_error",
+      "execution_progress": 0.0,
+      "method": "VAL_recheck",
+      "returncode": 255,
+      "validator_output_tail": "asses type checking.\nType-checking create_candidate\n...action passes type checking.\nType-checking release_skill_certificate\n...action passes type checking.\nType-checking activate_origin_node\n...action passes type checking.\nType-checking lock_origin_availability\n...action passes type checking.\nType-checking activate_destination_node\n...action passes type checking.\nType-checking lock_destination_availability\n...action passes type checking.\nType-checking assemble_origin_loaded_leg\n...action passes type checking.\nType-checking assemble_destination_loaded_leg\n...action passes type checking.\nType-checking assemble_fully_loaded_leg\n...action passes type checking.\nType-checking reserve_equipment_resource\n...action passes type checking.\nType-checking confirm_equipment_assignment\n...action passes type checking.\nType-checking verify_loading_profile_destination_flag\n...action passes type checking.\nType-checking establish_clearance_origin_loaded\n...action passes type checking.\nType-checking establish_clearance_destination_loaded\n...action passes type checking.\nType-checking establish_clearance_full_load\n...action passes type checking.\nType-checking attach_service_window\n...action passes type checking.\nType-checking validate_route_sequence\n...action passes type checking.\nType-checking finalize_candidate_after_sequence_validation\n...action passes type checking.\nChecking plan: /tmp/tmp4xx03k7e.plan\nObject with unknown type: shift_alpha\n\nErrors: 0, warnings: 1\nError: Error in type-checking!\n\n"
+    },
+    {
+      "path": "materials/logistics/alpha/p20/plan_scatter/9/deepseek-v4-flash/llm_result.json",
+      "plan_length": 71,
+      "outcome": "parse_error",
+      "reason": "line 2: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p20/plan_scatter/12/deepseek-v4-flash/llm_result.json",
+      "plan_length": 60,
+      "outcome": "parse_error",
+      "reason": "line 3: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p20/plan_scatter/14/deepseek-v4-flash/llm_result.json",
+      "plan_length": 52,
+      "outcome": "parse_error",
+      "reason": "line 4: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p20/canonical/3/gpt-oss-120b/llm_result.json",
+      "plan_length": 51,
+      "outcome": "parse_error",
+      "reason": "line 20: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p20/canonical/14/gpt-oss-120b/llm_result.json",
+      "plan_length": 34,
+      "outcome": "parse_error",
+      "reason": "line 16: apply_operational_constraint has 2 arguments, expected 3",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p20/plan_back/8/gpt-oss-120b/llm_result.json",
+      "plan_length": 1,
+      "outcome": "parse_error",
+      "execution_progress": 0.0,
+      "method": "VAL_recheck",
+      "returncode": 255,
+      "validator_output_tail": "certificate\n...action passes type checking.\nType-checking assemble_transport_leg\n...action passes type checking.\nType-checking unload_origin_payload\n...action passes type checking.\nType-checking load_origin_payload\n...action passes type checking.\nType-checking unload_destination_payload\n...action passes type checking.\nType-checking load_destination_payload\n...action passes type checking.\nType-checking confirm_candidate_preparedness\n...action passes type checking.\nType-checking attach_task_profile\n...action passes type checking.\nType-checking execute_schedule_dispatch\n...action passes type checking.\nType-checking allocate_vehicle_unit\n...action passes type checking.\nType-checking detach_task_profile\n...action passes type checking.\nType-checking allocate_dispatch_slot_for_candidate\n...action passes type checking.\nType-checking finalize_candidate_after_compliance_validation\n...action passes type checking.\nType-checking verify_compliance_certificate\n...action passes type checking.\nType-checking release_operator_resource\n...action passes type checking.\nType-checking assign_compliance_certificate\n...action passes type checking.\nType-checking confirm_operator_alignment\n...action passes type checking.\nType-checking apply_operational_constraint\n...action passes type checking.\nType-checking assign_operator_resource\n...action passes type checking.\nChecking plan: /tmp/tmpng1jeadr.plan\nObject with unknown type: placeholder_candidate\n\nErrors: 0, warnings: 1\nError: Error in type-checking!\n\n"
+    },
+    {
+      "path": "materials/logistics/alpha/p20/plan_scatter/9/gpt-oss-120b/llm_result.json",
+      "plan_length": 58,
+      "outcome": "parse_error",
+      "reason": "line 3: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    },
+    {
+      "path": "materials/logistics/alpha/p20/disp_2/15/nemotron-3-super/llm_result.json",
+      "plan_length": 42,
+      "outcome": "parse_error",
+      "reason": "line 7: confirm_candidate_preparedness has 1 arguments, expected 2",
+      "execution_progress": 0.0,
+      "method": "plan_schema_precheck"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+series,series_label,model,model_label,problem,order,order_label,run,reachability,executability,plan_length
+combined,Все варианты порядка схем действий,deepseek/deepseek-v4-flash,DeepSeek V4 Flash,p1,reference_disp_1,План в начале: смещение 1/3,10,1,1,8
+combined,Все варианты порядка схем действий,deepseek/deepseek-v4-flash,DeepSeek V4 Flash,p1,reference_reverse,План в начале: обратный,5,1,1,8
